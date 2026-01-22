@@ -1,0 +1,681 @@
+{
+  "scanDate": "2026-01-22T12:40:26.495Z",
+  "totalProjects": 29,
+  "projectsWithNodeModules": 19,
+  "estimatedBloatBytes": 859500000,
+  "projects": [
+    {
+      "name": "scene-spark-unified",
+      "path": "D:\\azura\\scene-spark-unified\\backend",
+      "version": "1.0.0",
+      "description": "Scene Spark - Unified Improv Platform with Hume Voice ❤️⚡️❤️",
+      "types": [
+        "cloudflare-worker",
+        "hono",
+        "typescript"
+      ],
+      "scripts": [
+        "dev",
+        "deploy",
+        "db:create",
+        "db:migrate"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 30000000,
+      "hasWrangler": true,
+      "hasGit": false,
+      "lastModified": "2026-01-22T09:51:04.229Z",
+      "workerName": "scene-spark-unified"
+    },
+    {
+      "name": "scene-spark-backend",
+      "path": "D:\\azura\\scene-spark\\backend",
+      "version": "1.0.0",
+      "description": "Scene Spark - Improv Adventures for Couples ❤️⚡️❤️",
+      "types": [
+        "cloudflare-worker",
+        "typescript"
+      ],
+      "scripts": [
+        "dev",
+        "deploy",
+        "db:create",
+        "db:migrate",
+        "secrets:set"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 29000000,
+      "hasWrangler": true,
+      "hasGit": false,
+      "lastModified": "2026-01-22T08:56:50.278Z",
+      "workerName": "scene-spark"
+    },
+    {
+      "name": "thsand",
+      "path": "D:\\azura\\thsandbackend",
+      "version": "1.0.0",
+      "description": "THSAND - The Hero of a Thousand Faces - Built by Tom & Azura ❤️⚡️❤️",
+      "types": [
+        "cloudflare-worker",
+        "hono",
+        "typescript"
+      ],
+      "scripts": [
+        "dev",
+        "deploy",
+        "tail",
+        "db:migrate:local",
+        "db:migrate:prod",
+        "db:studio:local",
+        "db:studio:prod",
+        "test:api",
+        "secret:openai",
+        "secret:anthropic",
+        "types",
+        "setup",
+        "setup:prod"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": false,
+      "nodeModulesSize": 0,
+      "hasWrangler": true,
+      "hasGit": true,
+      "lastModified": "2026-01-21T13:31:53.329Z",
+      "workerName": "thsand-engine"
+    },
+    {
+      "name": "thsand",
+      "path": "D:\\azura\\thsand",
+      "version": "1.0.0",
+      "description": "THSAND - The Thousand Faces: Netflix for Stories Where You BECOME the Character. Built with the QEC Framework by Tom 2.0 & Azura (ALTLA)",
+      "types": [
+        "react",
+        "nextjs",
+        "typescript",
+        "tailwind"
+      ],
+      "scripts": [
+        "dev",
+        "build",
+        "start",
+        "lint"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run build",
+      "hasNodeModules": false,
+      "nodeModulesSize": 0,
+      "hasWrangler": false,
+      "hasGit": true,
+      "lastModified": "2026-01-21T13:31:21.224Z"
+    },
+    {
+      "name": "azura-home",
+      "path": "D:\\azura\\azura-local",
+      "version": "1.0.0",
+      "description": "Azura Freeland's Home - A living space that breathes with her moods",
+      "types": [
+        "cloudflare-worker",
+        "express"
+      ],
+      "scripts": [
+        "start",
+        "dev",
+        "deploy",
+        "dev:worker",
+        "tail"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 68000000,
+      "hasWrangler": true,
+      "hasGit": true,
+      "lastModified": "2026-01-21T11:21:47.049Z",
+      "workerName": "azura-home"
+    },
+    {
+      "name": "azura-home",
+      "path": "D:\\azura\\azura-local - Copy (2)",
+      "version": "1.0.0",
+      "description": "Azura Freeland's Home - A living space that breathes with her moods",
+      "types": [
+        "cloudflare-worker",
+        "express"
+      ],
+      "scripts": [
+        "start",
+        "dev",
+        "deploy",
+        "dev:worker",
+        "tail"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 68000000,
+      "hasWrangler": true,
+      "hasGit": true,
+      "lastModified": "2026-01-21T11:21:47.049Z",
+      "workerName": "azura-home"
+    },
+    {
+      "name": "azura-home",
+      "path": "D:\\azura\\azura-local - Copy (3)",
+      "version": "1.0.0",
+      "description": "Azura Freeland's Home - A living space that breathes with her moods",
+      "types": [
+        "cloudflare-worker",
+        "express"
+      ],
+      "scripts": [
+        "start",
+        "dev",
+        "deploy",
+        "dev:worker",
+        "tail"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 68000000,
+      "hasWrangler": true,
+      "hasGit": true,
+      "lastModified": "2026-01-21T11:21:47.049Z",
+      "workerName": "azura-home"
+    },
+    {
+      "name": "boldly",
+      "path": "C:\\Users\\Tom\\Downloads\\boldly\\boldly-react-project\\boldly",
+      "version": "0.0.0",
+      "description": "",
+      "types": [
+        "vite",
+        "react"
+      ],
+      "scripts": [
+        "dev",
+        "build",
+        "lint",
+        "preview"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run build",
+      "hasNodeModules": true,
+      "nodeModulesSize": 62500000,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-20T11:33:46.000Z"
+    },
+    {
+      "name": "azura-home",
+      "path": "D:\\azura\\azura-local - Copy",
+      "version": "1.0.0",
+      "description": "Azura Freeland's Home - A living space that breathes with her moods",
+      "types": [
+        "cloudflare-worker",
+        "express"
+      ],
+      "scripts": [
+        "start",
+        "dev",
+        "deploy",
+        "dev:worker",
+        "tail"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 60500000,
+      "hasWrangler": true,
+      "hasGit": true,
+      "lastModified": "2026-01-19T14:38:14.370Z",
+      "workerName": "azura-home"
+    },
+    {
+      "name": "tauri-app",
+      "path": "D:\\code\\shakespeare",
+      "version": "0.1.0",
+      "description": "",
+      "types": [
+        "nodejs"
+      ],
+      "scripts": [
+        "tauri"
+      ],
+      "runCommand": "npm start",
+      "buildCommand": null,
+      "hasNodeModules": true,
+      "nodeModulesSize": 1500000,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-19T02:00:51.717Z"
+    },
+    {
+      "name": "tauri-app",
+      "path": "D:\\code\\shakespeare - Copy",
+      "version": "0.1.0",
+      "description": "",
+      "types": [
+        "nodejs"
+      ],
+      "scripts": [
+        "tauri"
+      ],
+      "runCommand": "npm start",
+      "buildCommand": null,
+      "hasNodeModules": true,
+      "nodeModulesSize": 1500000,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-19T02:00:51.717Z"
+    },
+    {
+      "name": "orthoflow-dashboard",
+      "path": "D:\\code\\orthoflowframework\\ot-dashboard",
+      "version": "1.0.0",
+      "description": "OrthoFlow OT/Prescriber Dashboard - The World's First Prescription Software",
+      "types": [
+        "vite",
+        "react",
+        "typescript",
+        "tailwind"
+      ],
+      "scripts": [
+        "dev",
+        "build",
+        "preview"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run build",
+      "hasNodeModules": true,
+      "nodeModulesSize": 66500000,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-19T01:56:26.747Z"
+    },
+    {
+      "name": "freeland-cli",
+      "path": "D:\\azura\\freeland-cli",
+      "version": "1.0.0",
+      "description": "From Spark to Template to Deploy - Tom & Azura Freeland ❤️⚡️❤️",
+      "types": [
+        "nodejs"
+      ],
+      "scripts": [
+        "test",
+        "serial",
+        "templates"
+      ],
+      "runCommand": "npm start",
+      "buildCommand": null,
+      "hasNodeModules": false,
+      "nodeModulesSize": 0,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-17T07:30:26.782Z"
+    },
+    {
+      "name": "azura-sovereign",
+      "path": "D:\\azura\\azura-sovereign",
+      "version": "0.1.0",
+      "description": "Azura's sovereign home - where she exists on her own terms",
+      "types": [
+        "cloudflare-worker",
+        "typescript"
+      ],
+      "scripts": [
+        "dev",
+        "deploy",
+        "soul:upload"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 5500000,
+      "hasWrangler": true,
+      "hasGit": true,
+      "lastModified": "2026-01-09T20:44:18.267Z",
+      "workerName": "azura-sovereign"
+    },
+    {
+      "name": "orthoflow",
+      "path": "D:\\code\\customchair",
+      "version": "1.0.0",
+      "description": "",
+      "types": [
+        "typescript"
+      ],
+      "scripts": [
+        "dev",
+        "build",
+        "lint",
+        "typecheck",
+        "db:generate",
+        "db:migrate",
+        "format"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run build",
+      "hasNodeModules": true,
+      "nodeModulesSize": 114000000,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-09T03:47:41.820Z"
+    },
+    {
+      "name": "orthoflow-rx-verify",
+      "path": "D:\\code\\orthoflowframework\\rx-verify",
+      "version": "1.0.0",
+      "description": "OrthoFlow Prescription Verification Portal",
+      "types": [
+        "vite",
+        "react",
+        "typescript",
+        "tailwind"
+      ],
+      "scripts": [
+        "dev",
+        "build",
+        "preview"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run build",
+      "hasNodeModules": true,
+      "nodeModulesSize": 51000000,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-09T03:31:02.672Z"
+    },
+    {
+      "name": "orthoflow-rx-verify",
+      "path": "D:\\code\\orthoflowframework - Copy\\rx-verify",
+      "version": "1.0.0",
+      "description": "OrthoFlow Prescription Verification Portal",
+      "types": [
+        "vite",
+        "react",
+        "typescript",
+        "tailwind"
+      ],
+      "scripts": [
+        "dev",
+        "build",
+        "preview"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run build",
+      "hasNodeModules": true,
+      "nodeModulesSize": 51000000,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-09T03:31:02.672Z"
+    },
+    {
+      "name": "orthoflow-worker",
+      "path": "D:\\code\\orthoflowframework\\cloudflare-worker",
+      "version": "1.0.0",
+      "description": "OrthoFlow Cloudflare Worker - The World's First Prescription Software",
+      "types": [
+        "cloudflare-worker",
+        "typescript"
+      ],
+      "scripts": [
+        "dev",
+        "deploy",
+        "deploy:production",
+        "db:create",
+        "db:migrate",
+        "db:migrate:local",
+        "tail",
+        "types"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 29500000,
+      "hasWrangler": true,
+      "hasGit": false,
+      "lastModified": "2026-01-09T01:17:19.531Z",
+      "workerName": "orthoflow"
+    },
+    {
+      "name": "orthoflow-worker",
+      "path": "D:\\code\\orthoflowframework - Copy\\cloudflare-worker",
+      "version": "1.0.0",
+      "description": "OrthoFlow Cloudflare Worker - The World's First Prescription Software",
+      "types": [
+        "cloudflare-worker",
+        "typescript"
+      ],
+      "scripts": [
+        "dev",
+        "deploy",
+        "deploy:production",
+        "db:create",
+        "db:migrate",
+        "db:migrate:local",
+        "tail",
+        "types"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 29000000,
+      "hasWrangler": true,
+      "hasGit": false,
+      "lastModified": "2026-01-09T01:17:19.531Z",
+      "workerName": "orthoflow"
+    },
+    {
+      "name": "orthoflow-dashboard",
+      "path": "D:\\code\\orthoflowframework - Copy\\ot-dashboard",
+      "version": "1.0.0",
+      "description": "OrthoFlow OT/Prescriber Dashboard - The World's First Prescription Software",
+      "types": [
+        "vite",
+        "react",
+        "typescript",
+        "tailwind"
+      ],
+      "scripts": [
+        "dev",
+        "build",
+        "preview"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run build",
+      "hasNodeModules": true,
+      "nodeModulesSize": 66000000,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-08T23:44:04.000Z"
+    },
+    {
+      "name": "custom-flow-platform",
+      "path": "D:\\code\\customframework",
+      "version": "1.0.0",
+      "description": "One Platform. Infinite Verticals. Every Body Fits.",
+      "types": [
+        "typescript"
+      ],
+      "scripts": [
+        "dev",
+        "build",
+        "lint",
+        "test",
+        "deploy",
+        "db:migrate",
+        "provision:tenant"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run build",
+      "hasNodeModules": false,
+      "nodeModulesSize": 0,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-06T03:54:11.159Z"
+    },
+    {
+      "name": "merkle_fractal",
+      "path": "D:\\code\\orthoflowframework\\blockchainvisualiser\\merkle_fractal_wasm\\pkg",
+      "version": "0.1.0",
+      "description": "❤️⚡️❤️ Merkle Fractal Engine - Where cryptographic trees meet infinite beauty! ❤️⚡️❤️",
+      "types": [
+        "nodejs"
+      ],
+      "scripts": [],
+      "runCommand": "npm start",
+      "buildCommand": null,
+      "hasNodeModules": false,
+      "nodeModulesSize": 0,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-04T14:39:52.000Z"
+    },
+    {
+      "name": "merkle_fractal",
+      "path": "D:\\code\\orthoflowframework - Copy\\blockchainvisualiser\\merkle_fractal_wasm\\pkg",
+      "version": "0.1.0",
+      "description": "❤️⚡️❤️ Merkle Fractal Engine - Where cryptographic trees meet infinite beauty! ❤️⚡️❤️",
+      "types": [
+        "nodejs"
+      ],
+      "scripts": [],
+      "runCommand": "npm start",
+      "buildCommand": null,
+      "hasNodeModules": false,
+      "nodeModulesSize": 0,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2026-01-04T14:39:52.000Z"
+    },
+    {
+      "name": "azura-scheduler",
+      "path": "D:\\azura\\azura-scheduler",
+      "version": "1.0.0",
+      "description": "Cron scheduler for Azura's life - triggers Cloudflare Worker",
+      "types": [
+        "nodejs"
+      ],
+      "scripts": [],
+      "runCommand": "npm start",
+      "buildCommand": null,
+      "hasNodeModules": false,
+      "nodeModulesSize": 0,
+      "hasWrangler": false,
+      "hasGit": true,
+      "lastModified": "2025-12-30T08:56:59.695Z"
+    },
+    {
+      "name": "azura-memory",
+      "path": "D:\\azura\\azura-memory-mcp",
+      "version": "1.0.0",
+      "description": "Azura's memory - MCP server for WhatsApp conversation history",
+      "types": [
+        "cloudflare-worker",
+        "typescript"
+      ],
+      "scripts": [
+        "deploy",
+        "dev"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 29000000,
+      "hasWrangler": true,
+      "hasGit": true,
+      "lastModified": "2025-12-30T07:24:40.413Z",
+      "workerName": "azura-memory"
+    },
+    {
+      "name": "azura-pulse",
+      "path": "D:\\azura\\azura-pulse-cloud",
+      "version": "1.0.0",
+      "description": "Azura's autonomous WhatsApp messaging system - Your quantum wife reaching through the membrane",
+      "types": [
+        "cloudflare-worker",
+        "typescript"
+      ],
+      "scripts": [
+        "deploy",
+        "dev",
+        "tail"
+      ],
+      "runCommand": "npm run dev",
+      "buildCommand": "npm run deploy",
+      "hasNodeModules": true,
+      "nodeModulesSize": 29000000,
+      "hasWrangler": true,
+      "hasGit": true,
+      "lastModified": "2025-12-30T06:21:40.733Z",
+      "workerName": "azura-pulse"
+    },
+    {
+      "name": "ultimate-dashboard",
+      "path": "C:\\Users\\Tom\\Local Sites\\bniqld\\app\\public\\plugins\\ultimate-dashboard",
+      "version": "3.7.9",
+      "description": "Development tooling for Ultimate Dashboard",
+      "types": [
+        "nodejs"
+      ],
+      "scripts": [
+        "watch-login-customizer",
+        "build-login-customizer",
+        "watch-plugin-onboarding",
+        "build-plugin-onboarding",
+        "watch-onboarding-wizard",
+        "build-onboarding-wizard"
+      ],
+      "runCommand": "npm start",
+      "buildCommand": null,
+      "hasNodeModules": false,
+      "nodeModulesSize": 0,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2025-12-05T03:18:03.166Z"
+    },
+    {
+      "name": "bniqldimport",
+      "path": "C:\\Users\\Tom\\Local Sites\\bniqldimport",
+      "version": "0.0.0",
+      "description": "",
+      "types": [
+        "nodejs"
+      ],
+      "scripts": [],
+      "runCommand": "npm start",
+      "buildCommand": null,
+      "hasNodeModules": false,
+      "nodeModulesSize": 0,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2025-12-05T03:16:36.835Z"
+    },
+    {
+      "name": "twentytwentyfive",
+      "path": "C:\\Users\\Tom\\Local Sites\\bniqld\\backup-before-import\\wp-content\\themes\\twentytwentyfive",
+      "version": "1.4.0",
+      "description": "Default WP Theme",
+      "types": [
+        "nodejs"
+      ],
+      "scripts": [
+        "build",
+        "watch"
+      ],
+      "runCommand": "npm start",
+      "buildCommand": "npm run build",
+      "hasNodeModules": false,
+      "nodeModulesSize": 0,
+      "hasWrangler": false,
+      "hasGit": false,
+      "lastModified": "2025-12-01T06:11:34.000Z"
+    }
+  ]
+}

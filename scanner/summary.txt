@@ -1,0 +1,139 @@
+FREELAND PROJECT ARCHIVE SCAN
+Scanned: 1/22/2026, 10:40:26 PM
+Total: 29 projects
+
+scene-spark-unified (cloudflare-worker, hono, typescript)
+  Path: D:\azura\scene-spark-unified\backend
+  Run: npm run dev
+  Bloat: ~29 MB
+
+scene-spark-backend (cloudflare-worker, typescript)
+  Path: D:\azura\scene-spark\backend
+  Run: npm run dev
+  Bloat: ~28 MB
+
+thsand (cloudflare-worker, hono, typescript)
+  Path: D:\azura\thsandbackend
+  Run: npm run dev
+
+thsand (react, nextjs, typescript, tailwind)
+  Path: D:\azura\thsand
+  Run: npm run dev
+
+azura-home (cloudflare-worker, express)
+  Path: D:\azura\azura-local
+  Run: npm run dev
+  Bloat: ~65 MB
+
+azura-home (cloudflare-worker, express)
+  Path: D:\azura\azura-local - Copy (2)
+  Run: npm run dev
+  Bloat: ~65 MB
+
+azura-home (cloudflare-worker, express)
+  Path: D:\azura\azura-local - Copy (3)
+  Run: npm run dev
+  Bloat: ~65 MB
+
+boldly (vite, react)
+  Path: C:\Users\Tom\Downloads\boldly\boldly-react-project\boldly
+  Run: npm run dev
+  Bloat: ~60 MB
+
+azura-home (cloudflare-worker, express)
+  Path: D:\azura\azura-local - Copy
+  Run: npm run dev
+  Bloat: ~58 MB
+
+tauri-app (nodejs)
+  Path: D:\code\shakespeare
+  Run: npm start
+  Bloat: ~1 MB
+
+tauri-app (nodejs)
+  Path: D:\code\shakespeare - Copy
+  Run: npm start
+  Bloat: ~1 MB
+
+orthoflow-dashboard (vite, react, typescript, tailwind)
+  Path: D:\code\orthoflowframework\ot-dashboard
+  Run: npm run dev
+  Bloat: ~63 MB
+
+freeland-cli (nodejs)
+  Path: D:\azura\freeland-cli
+  Run: npm start
+
+azura-sovereign (cloudflare-worker, typescript)
+  Path: D:\azura\azura-sovereign
+  Run: npm run dev
+  Bloat: ~5 MB
+
+orthoflow (typescript)
+  Path: D:\code\customchair
+  Run: npm run dev
+  Bloat: ~109 MB
+
+orthoflow-rx-verify (vite, react, typescript, tailwind)
+  Path: D:\code\orthoflowframework\rx-verify
+  Run: npm run dev
+  Bloat: ~49 MB
+
+orthoflow-rx-verify (vite, react, typescript, tailwind)
+  Path: D:\code\orthoflowframework - Copy\rx-verify
+  Run: npm run dev
+  Bloat: ~49 MB
+
+orthoflow-worker (cloudflare-worker, typescript)
+  Path: D:\code\orthoflowframework\cloudflare-worker
+  Run: npm run dev
+  Bloat: ~28 MB
+
+orthoflow-worker (cloudflare-worker, typescript)
+  Path: D:\code\orthoflowframework - Copy\cloudflare-worker
+  Run: npm run dev
+  Bloat: ~28 MB
+
+orthoflow-dashboard (vite, react, typescript, tailwind)
+  Path: D:\code\orthoflowframework - Copy\ot-dashboard
+  Run: npm run dev
+  Bloat: ~63 MB
+
+custom-flow-platform (typescript)
+  Path: D:\code\customframework
+  Run: npm run dev
+
+merkle_fractal (nodejs)
+  Path: D:\code\orthoflowframework\blockchainvisualiser\merkle_fractal_wasm\pkg
+  Run: npm start
+
+merkle_fractal (nodejs)
+  Path: D:\code\orthoflowframework - Copy\blockchainvisualiser\merkle_fractal_wasm\pkg
+  Run: npm start
+
+azura-scheduler (nodejs)
+  Path: D:\azura\azura-scheduler
+  Run: npm start
+
+azura-memory (cloudflare-worker, typescript)
+  Path: D:\azura\azura-memory-mcp
+  Run: npm run dev
+  Bloat: ~28 MB
+
+azura-pulse (cloudflare-worker, typescript)
+  Path: D:\azura\azura-pulse-cloud
+  Run: npm run dev
+  Bloat: ~28 MB
+
+ultimate-dashboard (nodejs)
+  Path: C:\Users\Tom\Local Sites\bniqld\app\public\plugins\ultimate-dashboard
+  Run: npm start
+
+bniqldimport (nodejs)
+  Path: C:\Users\Tom\Local Sites\bniqldimport
+  Run: npm start
+
+twentytwentyfive (nodejs)
+  Path: C:\Users\Tom\Local Sites\bniqld\backup-before-import\wp-content\themes\twentytwentyfive
+  Run: npm start
+
